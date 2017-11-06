@@ -1,0 +1,12 @@
+{
+  "name": "my-node-app-with-yarn",
+  "version": "1.0.0",
+  "description": "an app",
+  "main": "index.js",
+  "repository": "https://github.com/dherman/my-node-app-with-yarn",
+  "author": "Dave Herman <david.herman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@dherman/silent-updater": "^1.1.0"
+  }
+}
